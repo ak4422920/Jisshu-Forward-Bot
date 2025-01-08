@@ -41,14 +41,14 @@ class Translation(object):
   
   ABOUT_TXT = """<b>
 ╭───────────⍟
-├◈ ᴍy ɴᴀᴍᴇ : <a href=https://t.me/AKautoforward_bot>Auto Forward Bot</a>
+├◈ ᴍy ɴᴀᴍᴇ : <a href=https://t.me/Akforwardbot>AkForwardBot</a>
 ├◈ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/The_SonGoku>Akmoviebotz</a> 
-├◈ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ: <a href=https://t.me/akmoviebotz>Akmoviebotz</a>   
+├◈ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ: <a href=https://t.me/akmovieshubbackup>AKMOVIESHUB</a>   
 ├◈ Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
 ├◈ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org/>Pʏᴛʜᴏɴ 𝟹</a>
 ├◈ Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com/>Mᴏɴɢᴏ DB</a>
 ├◈ Bot Vᴇʀꜱɪᴏɴ: <a href=https://t.me/akmoviebotz>V-2.4.1
-├◈ Bᴏᴛ Sᴏᴜʀᴄᴇ: <a href=https://t.me/akmoviebotz>Join</a>
+├◈ Bᴏᴛ Sᴏᴜʀᴄᴇ: <a href=https://t.me/akmovieshubbackup>Join</a>
 ╰───────────────⍟</b>"""
   
   STATUS_TXT = """<b><u>Bot Status</u>
