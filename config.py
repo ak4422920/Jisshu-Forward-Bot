@@ -7,7 +7,7 @@ class Config:
     API_HASH = environ.get("API_HASH", "7ea2149629e445936619f06a3c0dc716")
     BOT_TOKEN = environ.get("BOT_TOKEN", "") 
     BOT_OWNER_ID = [int(id) for id in environ.get("BOT_OWNER_ID", '7251898668').split()]
-    BOT_SESSION = environ.get("BOT_SESSION", "AKautoforward_bot") 
+    BOT_SESSION = environ.get("BOT_SESSION", "akteraboxdownloader_bot") 
 
     PICS = (environ.get('PICS', 'https://envs.sh/oob.jpg'))
     
