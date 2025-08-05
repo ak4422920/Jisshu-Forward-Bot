@@ -13,7 +13,7 @@ TIMEZONE = "Asia/Kolkata"
 
 main_buttons = [[
         InlineKeyboardButton('🦋 ᴜᴘᴅᴀᴛᴇs ', url='https://t.me/akmovieshubbackup'),
-        InlineKeyboardButton(' sᴜᴘᴘᴏʀᴛ ✨', url='https://t.me/The_SonGoku')
+        InlineKeyboardButton(' sᴜᴘᴘᴏʀᴛ ✨', url='https://t.me/zoroversex')
         ],[
         InlineKeyboardButton('🛠️ ʜᴇʟᴘ', callback_data='help'),
         InlineKeyboardButton(' ᴀʙᴏᴜᴛ 😎', callback_data='about')
