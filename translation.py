@@ -42,7 +42,7 @@ class Translation(object):
   ABOUT_TXT = """<b>
 ╭───────────⍟
 ├◈ ᴍy ɴᴀᴍᴇ : <a href=https://t.me/Akforwardbot>AkForwardBot</a>
-├◈ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/The_SonGoku>Akmoviebotz</a> 
+├◈ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/Akmoviebotz>Akmoviebotz</a> 
 ├◈ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ: <a href=https://t.me/akmovieshubbackup>AKMOVIESHUB</a>   
 ├◈ Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
 ├◈ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org/>Pʏᴛʜᴏɴ 𝟹</a>
