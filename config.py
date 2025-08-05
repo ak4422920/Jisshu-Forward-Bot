@@ -9,7 +9,7 @@ class Config:
     BOT_OWNER_ID = [int(id) for id in environ.get("BOT_OWNER_ID", '8371607189').split()]
     BOT_SESSION = environ.get("BOT_SESSION", "ZFwdXBot") 
 
-    PICS = (environ.get('PICS', 'https://envs.sh/oob.jpg'))
+    PICS = (environ.get('PICS', 'https://i.ibb.co/CK7td5Jy/photo-2025-08-05-07-38-38-7535002688941981700.jpg'))
     
     DATABASE_URI = environ.get("DATABASE_URI", "")
     DATABASE_NAME = environ.get("DATABASE_NAME", "")
